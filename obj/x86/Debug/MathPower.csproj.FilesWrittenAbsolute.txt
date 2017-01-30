@@ -1,0 +1,5 @@
+/Users/TaHuC/Projects/MathPower/MathPower/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/TaHuC/Projects/MathPower/MathPower/bin/Debug/MathPower.exe.mdb
+/Users/TaHuC/Projects/MathPower/MathPower/bin/Debug/MathPower.exe
+/Users/TaHuC/Projects/MathPower/MathPower/obj/x86/Debug/MathPower.exe
+/Users/TaHuC/Projects/MathPower/MathPower/obj/x86/Debug/MathPower.exe.mdb
